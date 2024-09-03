@@ -1,0 +1,11 @@
+opencv-python
+pandas
+streamlit
+easyocr
+numpy
+ultralytics
+torch
+torchvision
+requests
+beautifulsoup4
+pysqlite3
